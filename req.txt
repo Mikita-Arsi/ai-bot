@@ -1,1 +1,4 @@
-langid==1.1.6
+aiogram @ https://github.com/aiogram/aiogram/archive/refs/heads/dev-3.x.zip
+fastapi
+uvicorn
+ormar
